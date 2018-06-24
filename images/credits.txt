@@ -1,1 +1,2 @@
+spanish-translation-project-first-update/spanish-translation-project-first-update-banner.jpg: https://unsplash.com/photos/TMxUnMAAwFA
 spanish-translation-project-second-update/spanish-translation-project-second-update-banner.jpg: https://unsplash.com/photos/WJolaNbXt90
