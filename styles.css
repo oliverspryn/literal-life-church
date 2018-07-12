@@ -3,7 +3,7 @@ div.header-link {
 }
 
 div.header-link a {
-  background-color: #eeeeee;
+  background-color: #EEEEEE;
   color: #333333;
   font-family: futura-pt;
   font-size: 16px;
@@ -18,9 +18,22 @@ a.header-link::after {
   context: "&raquo;";
 }
 
+div.player-wrapper {
+  max-height: 538px !important;
+  min-height: 538px !important;
+}
+
 div.dacast-theo {
   max-height: 538px !important;
 }
+
+div.theo-player-wrapper, div.theoplayer-container {
+  background-color: #FFFFFF !important;
+}
+
+div.vjs-control-bar {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+} 
 
 div#preFooter {
   display: none;

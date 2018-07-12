@@ -1,0 +1,17 @@
+Theme: Literal Life Church
+
+Background color: #4CE7FF
+Overlay color: #FFFFFF
+
+Watermark position: No watermark
+Watermark size: 100
+Share buttons: None
+Watermark image: thumbnail-small.png
+
+Error layout: 4, fullscreen
+Offline error message: Live streaming is offline. Please check back during regular service hours.
+Error message font: Arial
+Error background color: #000000
+Error text color: #FFFFFF
+
+Player type: THEO player
